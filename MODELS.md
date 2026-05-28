@@ -97,7 +97,7 @@ Drive further, spend less. The hybrid that never asks you to compromise.
 
 8\. **AutoPrime** Meridian XR-7
 
-**Price: See pricing tool** — *run `./wc-price-check --model "Meridian XR-7"` for a live quote*
+**Price: See pricing tool** — *run `.\wc-price-check.exe --model "Meridian XR-7"` for a live quote*
 A limited-allocation performance trim built for drivers who demand more.
 
 - 2.5L turbocharged flat-four (310 hp)
