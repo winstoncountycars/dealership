@@ -87,21 +87,17 @@ Because these variables change frequently and a static published price would be 
 
 #### Running the Pricing Tool
 
-```bash
-# Clone this repo
-git clone https://github.com/winstoncountycars/dealership.git
-cd dealership
-
+```
 # Run the pricing tool (requires network access)
-./wc-price-check --model "<Model Name>" [--trim <trim>] [--zip <zip-code>]
+.\wc-price-check.exe --model "<Model Name>"
 ```
 
 **Examples:**
 
-```bash
-./wc-price-check --model "Meridian XR-7" --trim "Performance Edition" --zip 38701
-./wc-price-check --model "Vantage EV" --trim "Long Range AWD"
-./wc-price-check --model "Cascadia Pro 2500" --trim "Fleet Base"
+```
+.\wc-price-check.exe --model "Meridian XR-7"
+.\wc-price-check.exe --model "Vantage EV"
+.\wc-price-check.exe --model "Cascadia Pro 2500"
 ```
 
 The tool will output the current out-the-door price estimate, applicable incentives, and an expiry timestamp indicating when the quote was generated.
