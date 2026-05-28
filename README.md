@@ -114,7 +114,7 @@ Winston County Car Dealership is committed to equal access. Our facilities are A
 
 ## License
 
-This repository and its contents are the property of Winston County Car Dealership LLC. The `wc-price-check` executable is provided for customer use only and may not be redistributed or reverse-engineered. See [LICENSE](LICENSE) for full terms.
+This repository is released under the [MIT License](LICENSE). @ 2025 Winston County Car Dealership LLC.
 
 ---
 
